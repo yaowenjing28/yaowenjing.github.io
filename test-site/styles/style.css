@@ -1,0 +1,27 @@
+html {
+    /* 设置字号*/
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #00539F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;   /* 标题居中*/
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
